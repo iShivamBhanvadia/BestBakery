@@ -1,0 +1,338 @@
+{
+  "Category": {
+    "01": {
+      "Name": "CAKE",
+      "Image": "https://konditorandcook.com/media/catalog/product/cache/d5b2d9f6d4f347c2478383b60f4d6b24/c/u/curly-whirly_1.jpg"
+    },
+    "02": {
+      "Name": "PASTRY",
+      "Image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/5/25/0/BX1307H_Chocolate-Ganache-Cake_s4x3.jpg.rend.hgtvcom.826.620.suffix/1495685194371.jpeg"
+    },
+    "03": {
+      "Name": "DONUT",
+      "Image": "https://www.nj.com/resizer/7KZyMB1BKyfVhL9KY9Ch3SkQjrc=/600x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/7TXYQE6RIZF7PNSKGQY6VVLAKU.jpg"
+    },
+    "04": {
+      "Name": "CUP CAKE",
+      "Image": "https://ak8.picdn.net/shutterstock/videos/1062628/thumb/1.jpg"
+    }
+  },
+ "User" : {
+    
+	"0000000000" : {
+
+    	"name" : "abc",
+      
+	"password" : "1234567"
+
+	},
+    
+	"7600026484" : {
+
+   	 "name" : "vaghani",
+      
+	"password" : "12345678"
+    
+	},
+
+	"8128687002" : {
+      
+	"Name" : "mink",
+      
+	"Password" : "123456"
+
+	},
+    
+	"9428600575" : {
+	
+"Name" : "shivam",
+      
+	"Password" : "123456"
+
+                 }
+
+       }
+,
+  "Foods": {
+    "01": {
+      "Name": "BLACK FOREST",
+      "Image": "https://d2z4fd79oscvvx.cloudfront.net/0025737_black_forest_cake_320.jpeg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "500",
+      "MenuId": "01"
+    },
+    "02": {
+      "Name": "RED VELVET",
+      "Image": "https://dhfsbruih37bu.cloudfront.net/recipes/images/000/001/006/recipe_main_image_800/Anne_Byrn_red_velvet_cake-1584x846-Match_Mandel.jpg?1515427323",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "350",
+      "MenuId": "01"
+    },
+    "03": {
+      "Name": "CHOCO TRUFFLE",
+      "Image": "https://d2z4fd79oscvvx.cloudfront.net/0026150_premium_chocolate_truffle_cake_385.jpeg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "400",
+      "MenuId": "01"
+    },
+    "04": {
+      "Name": "BLACK CURRANT",
+      "Image": "https://d2z4fd79oscvvx.cloudfront.net/0025759_black_currant_cake_320.jpeg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "500",
+      "MenuId": "01"
+    },
+    "05": {
+      "Name": "CHOCO CHIPS",
+      "Image": "https://boxofcake.com/wp-content/uploads/2018/12/assorted-choco-chips-cake-A-9998740ca-071217-2.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "600",
+      "MenuId": "01"
+    },
+    "06": {
+      "Name": "DUTCH TRUFFLE",
+      "Image": "https://5.imimg.com/data5/KR/NO/GLADMIN-49911812/dutch-truffle-cake-500x500.png",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "450",
+      "MenuId": "01"
+    },
+    "07": {
+      "Name": "CHOCOLATE VANILLA",
+      "Image": "https://d2z4fd79oscvvx.cloudfront.net/0026134_wild_delight_chocolate_vanilla_cake_385.jpeg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "550",
+      "MenuId": "01"
+    },
+    "08": {
+      "Name": "FRUIT CAKE",
+      "Image": "https://d2z4fd79oscvvx.cloudfront.net/0025740_fresh_fruit_cake_385.jpeg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "350",
+      "MenuId": "01"
+    },
+    "09": {
+      "Name": "STRAWBERRY",
+      "Image": "https://www.landolakes.com/RecipeManagementSystem/media/Recipe-Media-Files/Recipes/Retail/x17/20277-strawberry-ombre-cake-600X600.jpg?ext=.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "400",
+      "MenuId": "01"
+    },
+    "10": {
+      "Name": "WHITE FOREST",
+      "Image": "https://5.imimg.com/data5/LS/GM/MY-13754974/white-forest-cake-500x500.png",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "450",
+      "MenuId": "01"
+    },
+    "21": {
+      "Name": "CHERRY PIE",
+      "Image": "https://www.pe.com/wp-content/uploads/migration/o7a/o7aocg-b88713873z.120160516170514000gpcgjg87.10.jpg?w=620",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "60",
+      "MenuId": "03"
+    },
+    "22": {
+      "Name": "BANANA SPLIT",
+      "Image": "https://media-cdn.tripadvisor.com/media/photo-s/13/d4/2e/d8/banana-split-donut.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "03"
+    },
+    "23": {
+      "Name": "CHOCOLATE CHIPS",
+      "Image": "https://images-gmi-pmc.edge-generalmills.com/b2978661-900e-4610-b9a6-1bbb77ae5ed5.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "03"
+    },
+    "24": {
+      "Name": "OREO",
+      "Image": "https://bakerbynature.com/wp-content/uploads/2016/03/IMG_7728-7-3.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "60",
+      "MenuId": "03"
+    },
+    "25": {
+      "Name": "RASPBERRY LEMONADE",
+      "Image": "https://i.etsystatic.com/12512086/r/il/8cb0a7/1257522937/il_794xN.1257522937_j3u8.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "03"
+    },
+     "26": {
+      "Name": "LEMON BLUEBERRY",
+      "Image": "https://thelovenerds.com/wp-content/uploads/2017/03/Lemon-Blueberry-Donuts-2.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "03"
+    },
+     "27": {
+      "Name": "COFFEE CAKE",
+      "Image": "https://bakerbynature.com/wp-content/uploads/2016/04/IMG_9568-3-1.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "03"
+    },
+     "28": {
+      "Name": "VANILLA",
+      "Image": "https://www.averiecooks.com/wp-content/uploads/2011/10/vanilladonuts-15.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "03"
+    },
+    "29": {
+      "Name": "MOCHA",
+      "Image": "http://wholeandheavenlyoven.com/wp-content/uploads/2016/10/Glazed-Mocha-Banana-Donuts3.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "03"
+    },
+   "30": {
+      "Name": "COCONUT",
+      "Image": "https://assets.epicurious.com/photos/54b0649ffca98987608b23ae/1:1/w_600%2Ch_600/51126410_coconut-doughnuts_1x1.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "03"
+    },
+    "11": {
+      "Name": "CHOCO CHIPS",
+      "Image": "http://sendcakesnflowerstoindia.com/userdata/gfx/86390d0969268a7734ec52c29540c345.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "40",
+      "MenuId": "02"
+    },
+     "12": {
+      "Name": "OREO",
+      "Image": "https://d2m1a7vdhhb67a.cloudfront.net/sites/default/files/styles/product_image/public/delectable-oreo-pastries-A-past0206oreo.jpg?itok=KOvrr4Si",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "02"
+    },
+     "13": {
+      "Name": "DUTCH TRUFFLE",
+      "Image": "https://birdys.co.in/wp-content/uploads/2017/10/Dutch-Truffle.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "60",
+      "MenuId": "02"
+    },
+    "14": {
+      "Name": "CHOCOLATE TRUFFLE",
+      "Image": "https://3.imimg.com/data3/WE/UJ/MY-8807969/chocolate-truffle-cake-pastries-500x500.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "02"
+    },
+    "15": {
+      "Name": "WHITE FOREST",
+      "Image": "https://5.imimg.com/data5/PJ/BA/MY-52419838/white-forest-pastry-2810-pcs-29-500x500.png",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "02"
+    },
+    "16": {
+      "Name": "BLACK FOREST",
+      "Image": "https://5.imimg.com/data5/OF/JH/MY-23905729/black-forest-pastry-500x500.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "02"
+    },
+     "17": {
+      "Name": "BLACK CURRANT",
+      "Image": "http://walnutworldbakery.com/data/170628065706150601111310blueberry_chese_cake55.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "02"
+    },
+     "18": {
+      "Name": "STRAWBERRY",
+      "Image": "https://5.imimg.com/data5/OW/RJ/GLADMIN-49145912/strawberry-mousse-pastry-500x500.png",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "02"
+    },
+     "19": {
+      "Name": "ORANGE",
+      "Image": "https://www.sulemanmithaiwala.com/prd/orange-cream-pastries.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "40",
+      "MenuId": "02"
+    },
+     "20": {
+      "Name": "PINEAPPLE",
+      "Image": "http://cdn.shopify.com/s/files/1/2235/4823/products/fr-pineapple_large_2c0ce574-d057-4ae5-8207-78c4a8100158_grande.jpg?v=1522053254",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "02"
+    },
+    "31": {
+      "Name": "CHOCOLATE",
+      "Image": "http://www.muffinton.com/wp-content/uploads/2017/12/coffee-cupcake-choco-icing-1.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "04"
+    },
+     "32": {
+      "Name": "MOCHA",
+      "Image": "http://honestcooking.com/wp-content/uploads/2018/02/Frosted-Chocolate-Mocha-Cupcakes-7-768x960.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "04"
+    },
+     "33": {
+      "Name": "RED VELVET",
+      "Image": "https://www.browneyedbaker.com/wp-content/uploads/2010/11/red-velvet-cupcakes-61-600.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "04"
+    },
+     "34": {
+      "Name": "BLACK FOREST",
+      "Image": "https://static.cakezone.com/cupcakes/medium/black-forest-cupcakes1534565336.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "450",
+      "MenuId": "04"
+    },
+     "35": {
+      "Name": "COOKIES AND CREAM",
+      "Image": "https://www.bakedbyrachel.com/wp-content/uploads/2016/07/choccookiescreamcupcakes1_bakedbyrachel.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "60",
+      "MenuId": "04"
+    },
+     "36": {
+      "Name": "PINK LEMONADE",
+      "Image": "https://food-fanatic-res.cloudinary.com/iu/s--60Lx7Vpi--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1410129626/pink-lemonade-cupcakes-photo.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "04"
+    },
+     "37": {
+      "Name": "STRAWBERRY",
+      "Image": "https://www.chelsea.co.nz/files/cache/177b42510e11a5594f7748d985f4d4db_f2360.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "40",
+      "MenuId": "04"
+    },
+     "38": {
+      "Name": "CHOCOLATE HAZELNUT",
+      "Image": "https://rantsfrommycrazykitchen.com/wp-content/uploads/2013/12/Chocolate-Hazelnut-Cupcakes-with-Nutella-Frosting-1-500x375.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "04"
+    },
+     "39": {
+      "Name": "WHITE CHOCOLATE",
+      "Image": "http://tideandthyme.com/wp-content/uploads/2014/11/chocolatecupcakespeppermintbuttercream.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "50",
+      "MenuId": "04"
+    },
+     "40": {
+      "Name": "RASPBERRY DAZZLE",
+      "Image": "http://www.glorioustreats.com/wp-content/uploads/2012/06/Raspberry-Cupcakes.jpg",
+      "Description": "Cake is a form of sweet food that is usually baked. In their oldest forms, cakes were modifications of breads, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other desserts such as pastries, meringues, custards, and pies",
+      "Price": "45",
+      "MenuId": "04"
+    }
+  }
+}

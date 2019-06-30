@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "507949596742",
+    "firebase_url": "https://best-bakery-2ff23.firebaseio.com",
+    "project_id": "best-bakery-2ff23",
+    "storage_bucket": "best-bakery-2ff23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507949596742:android:2aa6e1d20714418e",
+        "android_client_info": {
+          "package_name": "com.example.bestbakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507949596742-uq67946tpobjiuhb5j65565tg025vfr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bestbakery",
+            "certificate_hash": "60037e6b41cd3555cc5e6660f02114fae2813efc"
+          }
+        },
+        {
+          "client_id": "507949596742-9p4r6lcasqbneb50gq26qfapkldqt133.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoozcd76fd5WNnWuuUVoTexBu-I8WOfz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507949596742-9p4r6lcasqbneb50gq26qfapkldqt133.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
